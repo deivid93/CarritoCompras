@@ -25,7 +25,7 @@
     },
     "dependencies": {
         "modal-js": "^3.0.1",
-        "moment": "^2.27.0",
+        "moment": "^2.29.4",
         "toastr": "^2.1.4"
     }
 }
